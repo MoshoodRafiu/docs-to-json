@@ -1,0 +1,22 @@
+{
+  "name": "docs-to-json",
+  "version": "1.0.0",
+  "description": "Converts API documentation to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoshoodRafiu/docs-to-json.git"
+  },
+  "keywords": [
+    "docs-to-json"
+  ],
+  "author": "Moshood Rafiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoshoodRafiu/docs-to-json/issues"
+  },
+  "homepage": "https://github.com/MoshoodRafiu/docs-to-json#readme"
+}
